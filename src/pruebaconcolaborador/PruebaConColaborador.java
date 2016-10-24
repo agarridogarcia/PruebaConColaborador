@@ -21,5 +21,9 @@ public class PruebaConColaborador {
         //cambio 2
         //jgfj
     }
+    public void algoNuevo(){
+        //método sin más
+        
+    }
     
 }
